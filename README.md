@@ -1,2 +1,2 @@
-# .github
-Defaults to all of my repos
+### Repos defaults
+[Defaults to all of my repos](https://docs.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file)
