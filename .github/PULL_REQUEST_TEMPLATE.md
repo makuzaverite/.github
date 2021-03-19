@@ -13,10 +13,8 @@ For more information, see the `CONTRIBUTING` guide.
 
 This PR fixes/implements the following **bugs/features**
 
-* [ ] Bug 1
-* [ ] Bug 2
-* [ ] Feature 1
-* [ ] Feature 2
+* [ ] Bug 
+* [ ] Feature 
 * [ ] Breaking changes
 
 <!-- You can skip this if you're fixing a typo or adding an app to the Showcase. -->
